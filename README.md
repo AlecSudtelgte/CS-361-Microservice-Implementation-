@@ -28,3 +28,8 @@ To recieve the data the user will need to open the now changed new_product.txt a
         file = open('new_product.txt', 'w')
         file.close()
         print(f'Here is your data: {data_pulled}')
+
+# UML sequence diagram
+
+![image](https://user-images.githubusercontent.com/91296239/199140838-6494bf8a-8819-4d6f-9f41-3dfa07a782fb.png)
+
